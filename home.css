@@ -1,0 +1,30 @@
+.head{
+    background-color: #930818;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 50px;
+}
+
+.input{
+    width: 290px;
+    height: 50px;
+    font-size: 30px;
+    text-align: right;
+}
+
+.key{
+    background-color: black;
+    color: white;
+    width: 70px;
+    height: 70px;
+    font-size: large;
+}
+
+.sign{
+    background-color: #0a9308;
+    color: white;
+    width: 70px;
+    height: 70px;
+    font-size: large;
+}
